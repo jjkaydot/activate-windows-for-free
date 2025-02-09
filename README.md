@@ -21,3 +21,8 @@ This tool is provided for educational purposes only. Please ensure you comply wi
 
 Contributing
 Feel free to contribute to this project by submitting issues or pull requests. Your feedback and improvements are welcome!
+
+
+# WARNING⚠
+
+browsers and defender way say its a virus but its safe it says it cuz it forces itself admin so it works
