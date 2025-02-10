@@ -26,3 +26,7 @@ Feel free to contribute to this project by submitting issues or pull requests. Y
 # WARNING⚠
 
 browsers and defender may say its a virus but its safe it says it cuz it forces itself admin so it works
+
+
+# SECURITY
+so you are scared "oh its a virus" the code is literally in script.txt check it and see your self 
